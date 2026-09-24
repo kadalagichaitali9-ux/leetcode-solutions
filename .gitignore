@@ -1,0 +1,9 @@
+# C/C++ executable files
+*.exe
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.loggit
